@@ -55,6 +55,18 @@ Se preferir, você também pode verificar o instalador em serviços públicos de
 
 ---
 
+## 🖼 Interface do aplicativo
+
+<p align="center">
+  <img src="screenshot1.png" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshot2.png" width="800">
+</p>
+
+---
+
 ## 📄 Termos de Uso
 Ao instalar e utilizar o Fylo, o usuário concorda que:
 
