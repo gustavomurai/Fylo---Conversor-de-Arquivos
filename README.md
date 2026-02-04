@@ -33,6 +33,28 @@ Conversor Universal de Arquivos para Windows
 
 ---
 
+## ⚠ Aviso do Windows SmartScreen ao instalar
+
+Ao baixar e executar o instalador do **Fylo**, o Windows pode exibir a mensagem:
+
+> **"O Windows protegeu o computador"**
+
+Isso acontece porque o Fylo é um aplicativo novo e ainda não possui assinatura digital comercial. O sistema de segurança do Windows mostra esse aviso para qualquer programa recém-publicado que ainda não possui histórico de downloads.
+
+✅ **O aplicativo é seguro e não contém vírus ou malware.**
+
+### Como continuar a instalação
+
+1. Clique em **Mais informações**.
+2. Depois clique em **Executar assim mesmo**.
+3. Continue a instalação normalmente.
+
+Com o tempo e o aumento de downloads, esse aviso tende a desaparecer automaticamente.
+
+Se preferir, você também pode verificar o instalador em serviços públicos de análise de segurança antes de executá-lo.
+
+---
+
 ## 📄 Termos de Uso
 Ao instalar e utilizar o Fylo, o usuário concorda que:
 
